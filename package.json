@@ -1,0 +1,12 @@
+{
+  "name": "recursive-promises",
+  "version": "1.0.0",
+  "description": "read a directory recursively using JS promises",
+  "main": "recursive-promises.js",
+  "scripts": {
+    "start": "node recursive-promises.js"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  }
+}
