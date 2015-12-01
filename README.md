@@ -5,8 +5,9 @@
 
 ##### Usage
 
-* Name the directory `test`, and place it in this folder's root path.
-* Read the directory by running `npm start`.
+ 1. Run `npm install`.
+ 2. Place your directory inside the `test` directory ([here](test)).
+ 3. Read it by running `npm start`.
 
 ##### ¿Qué son?
 Representan operaciones que no han terminado aún, pero que eventualmente lo
